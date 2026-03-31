@@ -1,5 +1,5 @@
 # Group-E---project
-# Project Name: Cafeteria Ordering System
+# Project Name: Smart Cafeteria Ordering System
 
 ## 📌 Description
 This project is a software application designed to reduce long queues in the campus cafeteria by allowing students to order food online.
