@@ -1,5 +1,3 @@
-# Wireframe UI Flow Description
-
 ## Overview
 
 The wireframes represent the user interface flow of a food ordering web application that sells fried chips, drinks, and full meals. The design focuses on allowing users to quickly browse menu items, add food to the cart, and complete an order.
