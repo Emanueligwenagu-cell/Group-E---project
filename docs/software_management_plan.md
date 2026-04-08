@@ -2,10 +2,10 @@
 
 ## 👥 Team Members & Roles
 - Emmanuel – Project Manager (coordinates tasks, ensures deadlines are met)
-- [Nondumiso] – Backend Developer (handles server logic and order processing)
-- [Khulukani] – Frontend Developer (designs and implements user interface)
-- [Pako] – UI/UX Designer (creates wireframes and user experience design)
-- [Onkarabtse] – Tester & Documentation (tests system and manages documentation)
+- Nondumiso – Backend Developer (handles server logic and order processing)
+- Khulukani – Frontend Developer (designs and implements user interface)
+- Pako – UI/UX Designer (creates wireframes and user experience design)
+- Onkarabtse – Tester & Documentation (tests system and manages documentation)
 
 ---
 
