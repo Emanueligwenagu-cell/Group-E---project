@@ -8,7 +8,7 @@
   - Assign responsibilities for pending tasks
 - **Discussion Points**:
   - Pako: Landing page wireframe in progress, needs feedback by Friday.
-  - Onkarabestwe: Backend server setup planned for this week.
+  - Onkarabeste: Backend server setup planned for this week.
   - Nondumiso: Database schema draft ready, awaiting review.
   - Emanuel: Coordinating backlog review and sprint planning.
   - Khulekani: Will facilitate next sync and ensure board updates.
@@ -17,7 +17,7 @@
   - Backend server setup to be completed before April 14.
 - **Action Items**:
   - Pako → Finalize wireframe and share screenshots.
-  - Onkarabestwe → Deploy backend server.
+  - Onkarabeste → Deploy backend server.
   - Nondumiso → Submit database schema for review.
   - Emanuel → Update sprint backlog file with new estimates.
   - Khulekani → Schedule next meeting (April 15).
