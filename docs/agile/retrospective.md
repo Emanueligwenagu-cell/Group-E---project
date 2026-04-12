@@ -1,4 +1,4 @@
-# Sprint 1 Retrospective – Smart Cafeteria System
+# Sprint 1 Retrospective – Smart Cafeteria Ordering System
 
 ## What Went Well
 - The team successfully defined the core problem: long cafeteria queues affecting students and staff.
