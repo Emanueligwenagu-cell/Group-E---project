@@ -31,5 +31,5 @@ This application allows students to:
 - Database: Git/GitHub, MySQL
 
 ## 📅 Project Status
--Phase 1: Planning & Design
--Phase 2: Allocation of Roles 
+- Phase 1: Planning & Design
+- Phase 2: Allocation of Roles 
