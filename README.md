@@ -32,3 +32,4 @@ This application allows students to:
 
 ## 📅 Project Status
 Phase 1: Planning & Design
+Phase 2: Allocation of Roles 
