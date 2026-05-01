@@ -108,11 +108,11 @@ Database Entities:
 
 We chose **Django + Layered Monolith** because:
 
-- ✅ Built-in authentication system
-- ✅ Strong ORM for SQL databases
-- ✅ Rapid development (admin panel, migrations)
-- ✅ Secure by default (CSRF, validation)
-- ✅ Easy to maintain for small teams
+- Built-in authentication system
+- Strong ORM for SQL databases
+- Rapid development (admin panel, migrations)
+- Secure by default (CSRF, validation)
+- Easy to maintain for small teams
 
 Frontend kept simple to:
 - Reduce complexity
