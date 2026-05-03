@@ -2,12 +2,12 @@
 
 ## UML Component Diagram
 
-![UML Component Diagram](component_diagram.png)
+![UML Component Diagram](UML_component_diagram.drawio.png)
 
 ## Data Flow Diagram
 
-![Data Flow Diagram](dfd_diagram.png)
+![Data Flow Diagram](dfd_diagram.drawio.png)
 
 ## Deployment Diagram
 
-![Deployment Diagram](deployment_diagram.png)
+![Deployment Diagram](deployment_diagram.drawio.png)
