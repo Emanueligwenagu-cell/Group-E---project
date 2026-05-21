@@ -28,7 +28,8 @@ This application allows students to:
 ## 🛠️ Technologies (Planned)
 - Frontend: Figma, React, HTML, CSS 
 - Backend: Python
-- Database: Git/GitHub, MySQL
+- Database: MySQL
+- Version Control: Git/GitHub
 
 ## 📅 Project Status
 - Phase 1: Planning & Design
