@@ -49,7 +49,7 @@ Develop and integrate a Python **FastAPI** backend with a **MySQL** database for
 
 ## Proposed Changes & Code Structure
 
-The project will be organized in `C:\Users\ACER.NTS\.gemini\antigravity\scratch\wsu-ibhotwe-food-ordering`:
+The project will be organised in `C:\Users\ACER.NTS\OneDrive\Documents\WSU\3rd year\CSS37W2\Project\wsu-ibhotwe-food-ordering`:
 
 ### 1. Database & Core Infrastructure (`backend/app/core/`)
 - [NEW] `backend/app/core/config.py`: Application settings (Database URL, JWT Secret Key, Token Expiry, CORS Origins).
@@ -60,7 +60,7 @@ The project will be organized in `C:\Users\ACER.NTS\.gemini\antigravity\scratch\
 - [NEW] `backend/app/models/user.py`: `User` table (ID, WSU student/staff number, full name, email, hashed password, role, campus, loyalty points).
 - [NEW] `backend/app/models/vendor.py`: `Vendor` table (ID, owner ID, name, campus location, image URL, is_open, rating, reviews count, min_order).
 - [NEW] `backend/app/models/menu.py`: `Category` and `MenuItem` tables (category, name, description, price, prep time, image, is_available, rating, tags).
-- [NEW] `backend/app/models/order.py`: `Order` and `OrderItem` tables (order code, fulfillment type, delivery location, status, total, payment method, timestamps).
+- [NEW] `backend/app/models/order.py`: `Order` and `OrderItem` tables (order code, fulfilment type, delivery location, status, total, payment method, timestamps).
 - [NEW] `backend/app/models/promo.py`: `PromoCode` table (code, discount percentage, active state).
 
 ### 3. Pydantic Schemas (`backend/app/schemas/`)
