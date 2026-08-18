@@ -1,5 +1,5 @@
-# Vireon5---project
-# Project Name: Ibotwe Cafeteria Ordering System
+# Vireon5
+# Project: Ibotwe Cafeteria Ordering System
 
 ## 📌 Description
 This project is a software application designed to reduce long queues in the campus cafeteria by allowing students to order food online.
