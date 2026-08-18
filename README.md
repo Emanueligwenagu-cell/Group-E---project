@@ -26,7 +26,7 @@ This application allows students to:
 - Onkarabetse Cothulose 240371801
 
 ## 🛠️ Technologies (Planned)
-- Frontend: Figma, React, HTML, CSS 
+- Frontend: HTML, CSS 
 - Backend: Python
 - Database: MySQL
 - Version Control: Git/GitHub
