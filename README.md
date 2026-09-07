@@ -24,6 +24,8 @@ This application allows students to:
 - Pako Lecoge 231237766
 - Khulekani Sikhosana 240014669
 - Onkarabetse Cothulose 240371801
+- Maila Tumelo 240140486
+- Dlula Anelisa 222547642
 
 ## 🛠️ Technologies (Planned)
 - Frontend: HTML, CSS 
